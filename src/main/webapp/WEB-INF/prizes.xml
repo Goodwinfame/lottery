@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prizes>
+    <prize>
+        <id>1</id>
+        <name>MacBook Air</name>
+        <count>1</count>
+        <level>0</level>
+        <drawed>0</drawed>
+    </prize>
+    <prize>
+        <id>2</id>
+        <name>长虹电视机49寸</name>
+        <count>1</count>
+        <level>1</level>
+        <drawed>0</drawed>
+    </prize>
+    <prize>
+        <id>3</id>
+        <name>XBOX</name>
+        <count>1</count>
+        <level>2</level>
+        <drawed>0</drawed>
+    </prize>
+    <prize>
+        <id>4</id>
+        <name>PS4</name>
+        <count>1</count>
+        <level>2</level>
+        <drawed>0</drawed>
+    </prize>
+    <prize>
+        <id>5</id>
+        <name>VR眼镜</name>
+        <count>1</count>
+        <level>3</level>
+        <drawed>0</drawed>
+    </prize>
+    <prize>
+        <id>6</id>
+        <name>电动自行车</name>
+        <count>1</count>
+        <level>3</level>
+        <drawed>0</drawed>
+    </prize>
+    <prize>
+        <id>7</id>
+        <name>Beats 耳机</name>
+        <count>1</count>
+        <level>3</level>
+        <drawed>0</drawed>
+    </prize>
+</prizes>

@@ -1,0 +1,12 @@
+@font-face {font-family: "myfont";
+    src: url('myfont.eot?t=1485142211491'); /* IE9*/
+    src: url('myfont.eot?t=1485142211491#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('myfont.woff?t=1485142211491') format('woff'), /* chrome, firefox */
+    url('myfont.ttf?t=1485142211491') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+}
+@font-face {font-family: "Courier";
+    src: url('Courier.eot?t=1485142211491'); /* IE9*/
+    src: url('Courier.eot?t=1485142211491#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('Courier.woff?t=1485142211491') format('woff'), /* chrome, firefox */
+    url('Courier.ttf?t=1485142211491') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+}
